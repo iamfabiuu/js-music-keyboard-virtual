@@ -3,19 +3,18 @@ body {
   align-items: center;
   justify-content: center;
   min-height: 100vh;
-  background-color: #e3f2fd;
-  color: #fff;
+  background-color: #c4c4c4;
 }
 
 .container {
   width: 780px;
-  border-radius: 20px;
+  border-radius: 13px;
   padding: 35px 40px;
-  background-color: black;
+  background-color: rgb(54, 0, 47);
 }
 
 .container header {
-  color: #b2b2b2;
+  color: #ffffff;
   display: flex;
   align-items: center;
   justify-content: space-between;
